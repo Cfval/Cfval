@@ -1,16 +1,35 @@
-## Hi there 👋
+# Carlos Francés Valdés 👋
 
-<!--
-**Cfval/Cfval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Software Developer** | Backend & Cloud Enthusiast  
 
-Here are some ideas to get you started:
+💻 **Tech Stack:** Java • Spring Boot • React • SQL • Docker • AWS (learning)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- **Telecom Management System**  
+  Full-stack platform to manage clients, users, devices, and phone lines.  
+  *Spring Boot • React • REST API • Docker*  
+  [Backend Repo](https://github.com/Cfval/telecom-management-backend) | [Frontend Repo](https://github.com/Cfval/telecom-management-frontend)
+
+- **Spring Boot Clean Architecture API** *(working on)*  
+  Focus on clean architecture, testable business logic, and maintainable REST endpoints.
+
+- **Cloud Native Task API** *(working on)*  
+  Dockerized backend for cloud deployment experiments, AWS-ready.
+
+---
+
+## 📚 Currently Learning
+
+- AWS Developer Associate
+- Cloud-native architectures
+- Scalable backend systems
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/cfval)  
+- [GitHub](https://github.com/Cfval)
