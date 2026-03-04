@@ -8,7 +8,7 @@
 
 - **Telecom Management System**  
   Full-stack platform to manage clients, users, devices, and phone lines.  
-  *Spring Boot • React • REST API • Docker*  
+  *Spring Boot • React • REST API • PostgreSQL*  
   [Backend Repo](https://github.com/Cfval/telecom-management-platform-backend) | [Frontend Repo](https://github.com/Cfval/telecom-management-platform-frontend)
 
 - **Spring Boot Clean Architecture API** *(working on)*  
