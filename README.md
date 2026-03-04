@@ -2,7 +2,7 @@
 
 **Junior Software Developer** | Backend & Cloud Enthusiast  
 
-💻 **Tech Stack:** Java • Spring Boot • React • SQL • Docker • AWS (learning)  
+💻 **Tech Stack:** Java • Spring Boot • React • SQL/NoSQL • Docker • AWS (learning)  
 
 ---
 
