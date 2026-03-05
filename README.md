@@ -30,4 +30,3 @@
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/cfval)  
-- [GitHub](https://github.com/Cfval)
