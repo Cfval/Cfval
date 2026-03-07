@@ -30,4 +30,4 @@
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/cfval)
-- [email](https://www.linkedin.com/in/cfval)  
+- [email](francesvaldesc@gmail.com)  
