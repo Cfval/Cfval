@@ -13,7 +13,9 @@
 - **Telecom Management System**  
   Full-stack platform to manage clients, users, devices, and phone lines.  
   *Spring Boot • React • REST API • PostgreSQL*  
-  [Backend Repo](https://github.com/Cfval/telecom-management-platform-backend) | [Frontend Repo](https://github.com/Cfval/telecom-management-platform-frontend) | Live demo(Open both and wait for deploy): [app](https://digital-citizen-app.onrender.com), [api](https://digital-citizen-api.onrender.com/swagger-ui/index.html)
+  [Backend Repo](https://github.com/Cfval/telecom-management-platform-backend) | [Frontend Repo](https://github.com/Cfval/telecom-management-platform-frontend)
+
+  Live demo (open both links and wait for deploy): [app](https://digital-citizen-app.onrender.com) - [api](https://digital-citizen-api.onrender.com/swagger-ui/index.html)
 
 ---
 
